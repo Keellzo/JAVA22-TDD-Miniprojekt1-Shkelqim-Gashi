@@ -2,7 +2,7 @@
 
 ## Första Projektet i TDD-Kursen
 
-Projektet kunde bli utmanande eftersom man ville refactora koden för att forma testerna som man själv vill, men det var inte möjligt. Detta gjorde uppgiften svårare, speciellt när det gällde att hitta en balans för hur många tester som borde skrivas.
+Projektet kunde bli utmanande eftersom man ville refactora koden för att forma testerna som man själv vill, men det var inte möjligt eller tillåtet eller behövdes inte(Om jag förstod dig rätt). Detta gjorde uppgiften svårare, speciellt när det gällde att hitta en balans för hur många tester som borde skrivas.
 
 Jag har skrivit 11 testmetoder och det varje gång jag ville lägga till kändes det som att jag bara lägger till i onödan eftersom vissa testcases i andra metoder täcker dom redan. Så att hitta den rätta balansen och veta när det är överflöd och inte, var en utmaning.
 
