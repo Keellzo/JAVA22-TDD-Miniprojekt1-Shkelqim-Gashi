@@ -26,7 +26,6 @@ public class Triangle {
 
     public Triangle(int a, int b, int c) {
         this.setCurrent_type(a, b, c);
-
     }
 
     public Triangle(String[] in) {
